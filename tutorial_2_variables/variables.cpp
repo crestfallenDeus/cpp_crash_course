@@ -23,7 +23,7 @@ int main()
 
     cout << "Player attacks! Zombie now has " << zombieHealth << " Health!" << endl;
 
-    system("pause");
+    system ("pause");
 
     return 0;
 }

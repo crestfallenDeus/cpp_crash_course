@@ -16,7 +16,7 @@ int main()
     cout << "Hello " << playerName << "!" << endl;
     cout << "Your name is " << playerName.length() << " letters long!" << endl;
 
-    system("pause");
+    system ("pause");
 
     return 0;
 }
